@@ -7,6 +7,7 @@ namespace GitFun
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! I am lit.");
+            Console.WriteLine("Hi");
         }
     }
 }
